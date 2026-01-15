@@ -1,61 +1,80 @@
-# Shrey Joshi
-### Full-stack Developer | Learning in public. Building things that matter.
+<div align="center">
+
+# Hi there, I'm Shrey Joshi 👋
+
+**Full-stack Developer**  
+*Learning in public. Building things that matter.*
+
+</div>
 
 ---
 
-## 👨‍💻 Professional Profile
+<div align="center">
 
-I am a software engineer focused on building scalable, distributed systems and integrating intelligent AI workflows into modern applications. With a strong foundation in **Java/Spring** and **React**, I bridge the gap between robust backend architecture and intuitive user experiences. 
+### 🛠️ Technical Stack
 
-Currently, I am deepening my expertise in **Generative AI orchestration** and **cloud-native microservices**, focusing on how LLMs can be leveraged within enterprise-grade Java ecosystems.
+#### Backend
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![SpringBoot](https://skillicons.dev/icons?i=springboot)](https://skillicons.dev) [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) [![SpringSecurity](https://skillicons.dev/icons?i=springsecurity)](https://skillicons.dev)
 
-- 🛠️ **Current Focus:** Optimizing RAG pipelines using Spring AI and LangGraph.
-- 🧠 **Philosophy:** Writing clean, maintainable code and solving complex problems through data structures and algorithmic efficiency.
-- 📈 **Goal:** Contributing to high-impact products while maintaining a disciplined "learning in public" workflow.
+#### Frontend
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Javascript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
 
----
+#### AI / ML
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
+**Frameworks & Concepts:** Spring AI, LangChain, LangGraph, RAG
 
-## 🛠️ Technical Ecosystem
+#### Databases & DevOps
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [![Kafka](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
 
-### Backend & Microservices
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,docker,kafka)](https://skillicons.dev)
-* **Core:** Java (LTS), Spring Boot, Spring Security (JWT/OAuth2).
-* **Architecture:** Spring Cloud (Config Server, Service Discovery, API Gateway), RESTful API design.
-* **Messaging & Scalability:** Distributed systems with Kafka and containerization via Docker.
+#### Tools
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
-### AI & Intelligent Systems
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow)](https://skillicons.dev)
-* **Frameworks:** Spring AI, LangChain, LangGraph.
-* **Concepts:** Retrieval-Augmented Generation (RAG), Vector Databases, Prompt Engineering.
-* **Data Science:** Python-based ML fundamentals and predictive modeling.
-
-### Frontend Engineering
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap)](https://skillicons.dev)
-* **Core:** Modern React (Hooks, Context API, Functional Components).
-* **Styling:** Responsive UI design using Tailwind CSS and Bootstrap.
-* **Integration:** State management and seamless REST API consumption.
+</div>
 
 ---
 
-## 📊 Performance & Analytics
+<div align="center">
 
-| **Problem Solving** | **GitHub Insights** |
-| :--- | :--- |
-| [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/shrey_joshi74/) | ![Shrey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyJoshi74&show_icons=true&theme=transparent&hide_border=true&count_private=true) |
-| *Focus: DSA, Consistency, Efficiency* | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyJoshi74&layout=compact&theme=transparent&hide_border=true) |
+## 📊 GitHub Stats
+
+[![ShreyJoshi74's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyJoshi74&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f0f6fc&icon_color=58a6ff&text_color=f0f6fc)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyJoshi74&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyJoshi74&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🧠 Competitive Programming
+
+- **LeetCode**: [shrey_joshi74](https://leetcode.com/u/shrey_joshi74/)  
+  *Consistent DSA practice and problem-solving*
 
 ---
 
-## 🚀 Currently Exploring
-* **Advanced RAG:** Exploring agentic workflows and multi-agent systems with LangGraph.
-* **System Design:** Deep diving into Low-Level Design (LLD) and High-Level Design (HLD) patterns for distributed scale.
-* **Cloud Orchestration:** Enhancing CI/CD pipelines and Kubernetes basics.
+### 🌐 Professional Presence
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shrey-joshi-554279215/)](https://www.linkedin.com/in/shrey-joshi-554279215/)
 
 ---
 
-## 🤝 Connect With Me
-* **LinkedIn:** [linkedin.com/in/shrey-joshi](https://www.linkedin.com/in/shrey-joshi-554279215/)
-* **GitHub:** [github.com/ShreyJoshi74](https://github.com/ShreyJoshi74)
+### 🚀 Currently Learning / Exploring
+
+- Advanced React patterns (Hooks, Context API, Performance Optimization)
+- Spring AI integrations with LangChain & RAG pipelines
+- System design for scalable microservices
+- Frontend state management with modern tools
 
 ---
-*“Simplicity is the soul of efficiency.”*
+
+<div align="center">
+
+**💼 Open to collaborations on full-stack projects, AI integrations, and scalable systems.**
+
+</div>
