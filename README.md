@@ -133,7 +133,7 @@ I practice data structures and algorithms to strengthen **analytical thinking, t
 - **LinkedIn:** https://www.linkedin.com/in/shrey-joshi-554279215/
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyJoshi74&show_icons=true" />
+</p>
 
-> Strong fundamentals scale.  
-> Good systems evolve.  
-> Consistency compounds.
