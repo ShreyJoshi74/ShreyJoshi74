@@ -1,80 +1,119 @@
-<div align="center">
+# Shrey Joshi  
+### Full-Stack Developer  
 
-# Hi there, I'm Shrey Joshi 👋
-
-**Full-stack Developer**  
-*Learning in public. Building things that matter.*
-
-</div>
+**Learning in public. Building things that matter.**
 
 ---
 
-<div align="center">
+## 👋 About Me
 
-### 🛠️ Technical Stack
+I am a full-stack developer with a strong backend foundation and growing exposure to AI systems.  
+My focus is on building **scalable, secure, and well-architected applications**, while continuously strengthening my problem-solving and system design skills.
 
-#### Backend
-[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev) [![SpringBoot](https://skillicons.dev/icons?i=springboot)](https://skillicons.dev) [![Spring](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) [![SpringSecurity](https://skillicons.dev/icons?i=springsecurity)](https://skillicons.dev)
-
-#### Frontend
-[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev) [![Javascript](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev) [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![TailwindCSS](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev) [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
-
-#### AI / ML
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)  
-**Frameworks & Concepts:** Spring AI, LangChain, LangGraph, RAG
-
-#### Databases & DevOps
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) [![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) [![Kafka](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
-
-#### Tools
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) [![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-
-</div>
+I value clean code, solid fundamentals, and consistent improvement over shortcuts or hype.
 
 ---
 
-<div align="center">
+## 🧠 Technical Stack
 
-## 📊 GitHub Stats
+### Backend & Core Engineering
+![Backend](https://skillicons.dev/icons?i=java,spring)
 
-[![ShreyJoshi74's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyJoshi74&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f0f6fc&icon_color=58a6ff&text_color=f0f6fc)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyJoshi74&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=f0f6fc)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShreyJoshi74&theme=radical&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
+- Java  
+- Spring Boot  
+- Spring Cloud  
+- Spring Security  
 
 ---
 
-### 🧠 Competitive Programming
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap)
 
-- **LeetCode**: [shrey_joshi74](https://leetcode.com/u/shrey_joshi74/)  
-  *Consistent DSA practice and problem-solving*
-
----
-
-### 🌐 Professional Presence
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shrey-joshi-554279215/)](https://www.linkedin.com/in/shrey-joshi-554279215/)
+- React (Hooks, Context API, REST integration)  
+- JavaScript  
+- HTML & CSS  
+- Tailwind CSS, Bootstrap  
 
 ---
 
-### 🚀 Currently Learning / Exploring
+### AI / ML Foundations
+![AI](https://skillicons.dev/icons?i=python)
 
-- Advanced React patterns (Hooks, Context API, Performance Optimization)
-- Spring AI integrations with LangChain & RAG pipelines
-- System design for scalable microservices
-- Frontend state management with modern tools
+- Python  
+- Machine Learning fundamentals  
+
+**AI Frameworks & Concepts**
+- Spring AI  
+- LangChain  
+- LangGraph  
+- Retrieval-Augmented Generation (RAG)  
 
 ---
 
-<div align="center">
+### Databases
+![Databases](https://skillicons.dev/icons?i=mysql,mongodb)
 
-**💼 Open to collaborations on full-stack projects, AI integrations, and scalable systems.**
+- MySQL  
+- MongoDB  
 
-</div>
+---
+
+### DevOps, Messaging & Tools
+![Tools](https://skillicons.dev/icons?i=docker,kafka,git)
+
+- Docker  
+- Kafka  
+- Git  
+- REST APIs  
+- Postman  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyJoshi74&show_icons=true&theme=default&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyJoshi74&layout=compact&theme=default&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShreyJoshi74&theme=default&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Competitive Programming & Problem Solving
+
+I actively practice **Data Structures & Algorithms**, focusing on consistency, clarity of thought, and efficient solutions.
+
+- **LeetCode Profile:**  
+  https://leetcode.com/u/shrey_joshi74/
+
+---
+
+## 🌱 Currently Learning / Exploring
+
+- Advanced Spring Boot patterns and backend scalability  
+- Microservices communication and resilience  
+- AI-powered applications using Spring AI and LangChain  
+- Retrieval-Augmented Generation (RAG) system design  
+- Improving DSA depth and problem-solving speed  
+
+---
+
+## 🤝 Professional Presence
+
+- **LinkedIn:**  
+  https://www.linkedin.com/in/shrey-joshi-554279215/
+
+---
+
+## 📌 Philosophy
+
+> Strong fundamentals scale.  
+> Clean architecture compounds.  
+> Consistency beats intensity.
+
+---
+
+*This profile reflects continuous learning, practical engineering, and long-term growth.*
