@@ -21,10 +21,7 @@ I value fundamentals, disciplined problem-solving, and learning by building real
   <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
-- Java  
-- Spring Boot  
-- Spring Cloud  
-- Spring Security  
+- Java  - Spring Boot  - Spring Cloud  - Spring Security  
 
 ---
 
