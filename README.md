@@ -1,57 +1,142 @@
-# Shrey Joshi
-### Full-Stack Engineer | Specialized in Java Ecosystem & GenAI Orchestration
+# Shrey Joshi  
+### Full-Stack Developer  
+
+**Learning in public. Building things that matter.**
 
 ---
 
-## ⚡ Executive Summary
-A disciplined Software Engineer focused on building robust backend architectures and integrating intelligent AI workflows. I specialize in the **Spring Ecosystem** and am currently pioneering **RAG (Retrieval-Augmented Generation)** implementations using **Spring AI** and **LangGraph**.
+## 👋 Overview
 
-- 🔭 **Current Focus:** Building agentic AI workflows and microservices.
-- 🏗️ **Architectural Philosophy:** Clean Code, SOLID principles, and Type-Safety.
-- 🧠 **Algorithmic Foundation:** 200+ problems solved on LeetCode; focused on optimized system design.
+I am a full-stack developer with a strong backend foundation and growing experience in AI-driven systems.  
+My work focuses on **building reliable, scalable, and secure applications**, with careful attention to architecture, clean code, and long-term maintainability.
 
----
-
-## 🛠️ Technical Inventory
-
-| Category | Technologies |
-| :--- | :--- |
-| **Backend & Core** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring) |
-| **AI & Orchestration** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **LangChain** • **LangGraph** • **Spring AI** • **RAG** |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Data & DevOps** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) |
+I value fundamentals, disciplined problem-solving, and learning by building real systems.
 
 ---
 
-## 📈 Engineering Metrics & Solving
-I treat problem-solving as a daily discipline to ensure code efficiency and optimal time complexity.
+## 🧠 Tech Stack
 
-| **GitHub Activity** | **Coding Proficiency** |
-| :--- | :--- |
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyJoshi74&show_icons=true&theme=nord&hide_border=true) | [![LeetCode](https://img.shields.io/badge/LeetCode-shrey_joshi74-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shrey_joshi74/) |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyJoshi74&layout=compact&theme=nord&hide_border=true) | **Focus:** Arrays, Dynamic Programming, System Design |
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
----
-
-## 🏗️ Selected Projects
-> **Note to Recruiters:** I build systems that solve real-world latency and intelligence problems.
-
-* **Intelligent Agentic RAG Pipeline:** Developed using Spring AI and LangGraph to automate complex document analysis.
-* **Microservices Orchestration:** Implemented a fault-tolerant system using Spring Cloud Gateway, Eureka, and Kafka for asynchronous messaging.
-* **Full-Stack Analytical Dashboard:** A React-based interface utilizing Tailwind CSS to visualize real-time data from a Spring Boot backend.
+- Java  
+- Spring Boot  
+- Spring Cloud  
+- Spring Security  
 
 ---
 
-## 🌱 Currently Engineering
-* **Advanced AI:** Exploring multi-agent systems and stateful AI orchestration.
-* **Distributed Systems:** Implementing Event-Driven Architecture (EDA) patterns.
-* **Performance:** Deep diving into JVM tuning and garbage collection optimization.
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+</p>
+
+- HTML, CSS, JavaScript  
+- React (Hooks, REST integration)  
+- Tailwind CSS, Bootstrap  
 
 ---
 
-## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrey-joshi-554279215/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/ShreyJoshi74)
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Machine Learning fundamentals  
+- Spring AI  
+- LangChain  
+- LangGraph  
+- Retrieval-Augmented Generation (RAG)  
 
 ---
-*“Code is for humans to read, and only incidentally for machines to execute.”*
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+</p>
+
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- Redis  
+
+---
+
+### DevOps & Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions" />
+</p>
+
+- Docker  
+- GitHub Actions (CI fundamentals)  
+- Kafka / RabbitMQ (foundational understanding)  
+
+---
+
+### Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,linux" />
+</p>
+
+- Git & GitHub  
+- IntelliJ IDEA, VS Code  
+- Postman  
+- Linux CLI  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyJoshi74&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyJoshi74&layout=compact&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyJoshi74&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Problem Solving & DSA
+
+I practice data structures and algorithms to strengthen **analytical thinking, trade-off analysis, and correctness under constraints**.
+
+- Emphasis on clarity before optimization  
+- Preference for readable, maintainable solutions  
+- Consistent practice over short-term intensity  
+
+---
+
+## 🏗️ How I Build
+
+- **Architecture first:** clear boundaries, layered design, modular components  
+- **Scalability-aware:** stateless services, async processing, caching where appropriate  
+- **Security-conscious:** authentication, authorization, and safe defaults  
+- **Clean code mindset:** readability, naming, and predictable behavior  
+- **Incremental improvement:** refactor as understanding deepens  
+
+---
+
+## 🌱 Currently Exploring
+
+- Backend scalability and performance tuning  
+- Microservices communication and resilience patterns  
+- AI-powered applications using Spring AI and LangChain  
+- RAG system design and evaluation  
+- Deeper understanding of distributed systems fundamentals  
+
+---
+
+## 🔗 Professional
+
+- **GitHub:** https://github.com/ShreyJoshi74  
+- **LinkedIn:** https://www.linkedin.com/in/shrey-joshi-554279215/
+
+---
+
+> Strong fundamentals scale.  
+> Good systems evolve.  
+> Consistency compounds.
